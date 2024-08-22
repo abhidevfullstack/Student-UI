@@ -48,7 +48,6 @@ export function EditForm() {
 
     return (
         <>
-        <SideNav/>
         <Box sx={{paddingLeft:'15rem'}}>
 
             <Alert severity="success">
