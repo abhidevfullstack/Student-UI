@@ -11,7 +11,6 @@ export function RegistrationForm() {
 
     return (
         <>
-            <SideNav />
             <Box sx={{ paddingLeft: '15rem' }}>
                 <Box sx={{ width: '100%' }}>
                     {loading && <LinearProgress />}
