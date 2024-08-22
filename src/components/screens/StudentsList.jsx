@@ -21,8 +21,7 @@ export function StudentsList() {
 
     return (
         <>
-        <SideNav/>
-            <Box sx={{paddingLeft:'15rem'}}>
+        <Box sx={{paddingLeft:'15rem'}}>
                 <Alert severity="success">
                     List of all the students
                 </Alert>
